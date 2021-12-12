@@ -1,3 +1,5 @@
+package lecture2;
+
 public class RootFormula {
     public static void main(String[] args) {
         double b = 1;

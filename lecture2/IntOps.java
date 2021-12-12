@@ -1,3 +1,5 @@
+package lecture2;
+
 public class IntOps
 {
     public static void main(String[] args)

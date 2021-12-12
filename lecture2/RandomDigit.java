@@ -1,3 +1,5 @@
+package lecture2;
+
 public class RandomDigit {
     public static void main(String[] args) {
         // Math.random() returns a random value in [0, 1]

@@ -1,3 +1,5 @@
+package lecture1;
+
 public class ExchangeArguments
 {
     public static void main(String[] args)
